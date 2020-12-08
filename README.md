@@ -44,7 +44,7 @@ About me:
 - [x] *[Project - Pixels Art](https://github.com/CristianoNunes/Project-Pixels-Art)*
 - [x] *[Project - Todo List](https://github.com/CristianoNunes/Project-Todo-List)*
 
-## Front-End Development :hourglass_flowing_sand:
+## Front-End Development :white_check_mark:
 - [x] *[Project - Signup Facebook](https://github.com/CristianoNunes/Project-Signup-Facebook)*
 - [x] *[Project - JavaScript Unit Tests](https://github.com/CristianoNunes/Project-JS-Unit-Tests)*
 - [x] *[Project - Zoo Functions](https://github.com/CristianoNunes/Project-Zoo-Functions)*
