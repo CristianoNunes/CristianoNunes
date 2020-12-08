@@ -9,8 +9,8 @@ About me:
 - :notebook: I like to learn new things.
 - ⚡ Proactive.
 - :+1: I like to collaborate.
-- 💬 Ask me about.
 - 💼 I'm pursuing knowledge to evolve in my development career.
+- 💬 Ask me about.
 - 😄 I'm available for hiring.
 
 
@@ -36,3 +36,26 @@ About me:
 
 - :iphone:  Phone: +55 84 98159-6618 [Whatsapp](https://api.whatsapp.com/send?phone=5584981596618&text=Hi%20there!)
 - 📧 Email: cristianonunes99@gmail.com
+
+## Introduction - Web Development :white_check_mark:
+- [x] *[Project - Lessons Learned](https://github.com/CristianoNunes/Project-Lessons-Learned)*
+- [x] *[Project - Playground Functions](https://github.com/CristianoNunes/Project-Playground-Functions)*
+- [x] *[Project - Meme Generator](https://github.com/CristianoNunes/Project-Meme-Generator)*
+- [x] *[Project - Pixels Art](https://github.com/CristianoNunes/Project-Pixels-Art)*
+- [x] *[Project - Todo List](https://github.com/CristianoNunes/Project-Todo-List)*
+
+## Front-end development :hourglass_flowing_sand:
+- [x] *[Project - Signup Facebook](https://github.com/CristianoNunes/Project-Signup-Facebook)*
+- [x] *[Project - JavaScript Unit Tests](https://github.com/CristianoNunes/Project-JS-Unit-Tests)*
+- [x] *[Project - Zoo Functions](https://github.com/CristianoNunes/Project-Zoo-Functions)*
+- [x] *[Project - Shopping Cart](https://github.com/CristianoNunes/Project-Shopping-Cart)*
+- [x] *[Project - Jest](https://github.com/CristianoNunes/Project-Jest)*
+- [x] *[Project - Movie Cards Library](https://github.com/CristianoNunes/Project-Movie-Cards-Library)*
+- [x] *[Project - Movie Cards Library CRUD](https://github.com/CristianoNunes/Project-Movie-Card-Library-Crud)*
+- [x] *[Project - Movie Cards Library Stateful](https://github.com/CristianoNunes/Project-Movie-Card-Library-Stateful)*
+- [x] *[Project - React Testing Library](https://github.com/CristianoNunes/Project-React-Testing-Library)*
+- [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
+- [x] *[Project - Trybe Wallet](https://github.com/CristianoNunes/Project-Trybe-Wallet)*
+- [x] *[Project - Trivia Game](https://github.com/CristianoNunes/Project-Trivia-React-Redux)*
+- [x] *[Project - StarWars Datatable with Context API and Hooks](https://github.com/CristianoNunes/Project-StarWars-Datatable-Hooks)*
+- [x] *[Project - Recipe App](https://github.com/CristianoNunes/Recipes-App)*
