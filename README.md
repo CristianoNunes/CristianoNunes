@@ -37,6 +37,8 @@ About me:
 - :iphone:  Phone: +55 84 98159-6618 [Whatsapp](https://api.whatsapp.com/send?phone=5584981596618&text=Hi%20there!)
 - 📧 Email: cristianonunes99@gmail.com
 
+## My projects developed at Trybe 👨🏽‍💻
+
 ## Introduction - Web Development :white_check_mark:
 - [x] *[Project - Lessons Learned](https://github.com/CristianoNunes/Project-Lessons-Learned)*
 - [x] *[Project - Playground Functions](https://github.com/CristianoNunes/Project-Playground-Functions)*
