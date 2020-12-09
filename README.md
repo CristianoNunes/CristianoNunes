@@ -38,7 +38,6 @@ About me:
 - 📧 Email: cristianonunes99@gmail.com
 
 ## My projects developed at Trybe 👨🏽‍💻
-
 ## Introduction - Web Development :white_check_mark:
 - [x] *[Project - Lessons Learned](https://github.com/CristianoNunes/Project-Lessons-Learned)*
 - [x] *[Project - Playground Functions](https://github.com/CristianoNunes/Project-Playground-Functions)*
