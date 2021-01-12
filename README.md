@@ -63,3 +63,4 @@ About me:
 
 ## Back-End Development :hourglass_flowing_sand:
 - [x] *[Project - MySQL All For One](https://github.com/CristianoNunes/Project-MySQL-All-For-One)*
+- [x] *[Project - MySQL Vocabulary Booster](https://github.com/CristianoNunes/Project-Mysql-Vocabulary-Booster)*
