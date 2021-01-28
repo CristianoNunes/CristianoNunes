@@ -67,3 +67,4 @@ About me:
 - [x] *[Project - MySQL One For All](https://github.com/CristianoNunes/Project-Mysql-One-For-All)*
 - [x] *[Project - MongoDB DataFlights](https://github.com/CristianoNunes/Project-Mongodb-Dataflights)*
 - [x] *[Project - MongoDB Commerce](https://github.com/CristianoNunes/Project-MongoDB-Commerce)*
+- [x] *[Project - MongoDB Aggregations](https://github.com/CristianoNunes/Project-MongoDB-Aggregations)*
