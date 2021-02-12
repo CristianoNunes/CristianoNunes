@@ -68,3 +68,4 @@ About me:
 - [x] *[Project - MongoDB DataFlights](https://github.com/CristianoNunes/Project-Mongodb-Dataflights)*
 - [x] *[Project - MongoDB Commerce](https://github.com/CristianoNunes/Project-MongoDB-Commerce)*
 - [x] *[Project - MongoDB Aggregations](https://github.com/CristianoNunes/Project-MongoDB-Aggregations)*
+- [x] *[Project - Crush Manager](https://github.com/CristianoNunes/Project-Crush-Manager)*
