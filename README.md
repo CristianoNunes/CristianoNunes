@@ -70,3 +70,7 @@ About me:
 - [x] *[Project - MongoDB Aggregations](https://github.com/CristianoNunes/Project-MongoDB-Aggregations)*
 - [x] *[Project - Crush Manager](https://github.com/CristianoNunes/Project-Crush-Manager)*
 - [x] *[Project - Store Manager](https://github.com/CristianoNunes/Project-Store-Manager)*
+- [x] *[Project - CookMaster](https://github.com/CristianoNunes/Project-CookMaster)*
+- [x] *[Project - Stranger Things - Backend](https://github.com/CristianoNunes/Project-Stranger-Things-Backend)*
+- [x] *[Project - Stranger Things - Frontend](https://github.com/CristianoNunes/Project-Stranger-Things-Frontend)*
+- [x] *[Project - Trybeer V1]()*
