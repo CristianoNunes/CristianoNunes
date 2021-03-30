@@ -11,7 +11,6 @@ About me:
 - :+1: I like to collaborate.
 - 💼 I'm pursuing knowledge to evolve in my development career.
 - 💬 Ask me about.
-- 😄 I'm available for hiring.
 
 
 
