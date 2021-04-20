@@ -73,4 +73,5 @@ About me:
 - [x] *[Project - CookMaster](https://github.com/CristianoNunes/Project-CookMaster)*
 - [x] *[Project - Stranger Things - Backend](https://github.com/CristianoNunes/Project-Stranger-Things-Backend)*
 - [x] *[Project - Stranger Things - Frontend](https://github.com/CristianoNunes/Project-Stranger-Things-Frontend)*
-- [x] *[Project - Trybeer V1]()*
+- [x] *[Project - Trybeer V1](https://github.com/CristianoNunes/Project-TrybeerV1)*
+- [x] *[Project - WebChat](https://github.com/CristianoNunes/Project-WebChat)*
