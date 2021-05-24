@@ -60,7 +60,7 @@ About me:
 - [x] *[Project - StarWars Datatable with Context API and Hooks](https://github.com/CristianoNunes/Project-StarWars-Datatable-Hooks)*
 - [x] *[Project - Recipe App](https://github.com/CristianoNunes/Recipes-App)*
 
-## Back-End Development :hourglass_flowing_sand:
+## Back-End Development :white_check_mark:
 - [x] *[Project - MySQL All For One](https://github.com/CristianoNunes/Project-MySQL-All-For-One)*
 - [x] *[Project - MySQL Vocabulary Booster](https://github.com/CristianoNunes/Project-Mysql-Vocabulary-Booster)*
 - [x] *[Project - MySQL One For All](https://github.com/CristianoNunes/Project-Mysql-One-For-All)*
@@ -74,4 +74,6 @@ About me:
 - [x] *[Project - Stranger Things - Frontend](https://github.com/CristianoNunes/Project-Stranger-Things-Frontend)*
 - [x] *[Project - Trybeer V1](https://github.com/CristianoNunes/Project-TrybeerV1)*
 - [x] *[Project - WebChat](https://github.com/CristianoNunes/Project-WebChat)*
+
+## Computer Science :hourglass_flowing_sand:
 - [x] *[Project - Tech News](https://github.com/CristianoNunes/Project-TechNews)*
