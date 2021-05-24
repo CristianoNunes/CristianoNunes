@@ -33,7 +33,6 @@ About me:
 
 ### 📫 How to reach me
 
-- :iphone:  Phone: +55 84 98159-6618 [Whatsapp](https://api.whatsapp.com/send?phone=5584981596618&text=Hi%20there!)
 - 📧 Email: cristianonunes99@gmail.com
 
 ## My projects developed at Trybe 👨🏽‍💻
