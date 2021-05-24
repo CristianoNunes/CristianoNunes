@@ -74,3 +74,4 @@ About me:
 - [x] *[Project - Stranger Things - Frontend](https://github.com/CristianoNunes/Project-Stranger-Things-Frontend)*
 - [x] *[Project - Trybeer V1](https://github.com/CristianoNunes/Project-TrybeerV1)*
 - [x] *[Project - WebChat](https://github.com/CristianoNunes/Project-WebChat)*
+- [x] *[Project - Tech News](https://github.com/CristianoNunes/Project-TechNews)*
