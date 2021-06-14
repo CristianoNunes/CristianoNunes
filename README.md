@@ -77,3 +77,4 @@ About me:
 ## Computer Science :hourglass_flowing_sand:
 - [x] *[Project - Tech News](https://github.com/CristianoNunes/Project-TechNews)*
 - [x] *[Project - Inventory Report](https://github.com/CristianoNunes/Project-InventoryReport)*
+- [x] *[Project - Algorithms](https://github.com/CristianoNunes/Project-Algorithms)*
