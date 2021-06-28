@@ -79,3 +79,4 @@ About me:
 - [x] *[Project - Inventory Report](https://github.com/CristianoNunes/Project-InventoryReport)*
 - [x] *[Project - Algorithms](https://github.com/CristianoNunes/Project-Algorithms)*
 - [x] *[Project - Restaurant Orders](https://github.com/CristianoNunes/Project-Restaurant-Orders)*
+- [x] *[Project - Trybe is not Google](https://github.com/CristianoNunes/Project-TING)*
