@@ -53,7 +53,6 @@ About me:
 - [x] *[Project - Movie Cards Library CRUD](https://github.com/CristianoNunes/Project-Movie-Card-Library-Crud)*
 - [x] *[Project - Movie Cards Library Stateful](https://github.com/CristianoNunes/Project-Movie-Card-Library-Stateful)*
 - [x] *[Project - React Testing Library](https://github.com/CristianoNunes/Project-React-Testing-Library)*
-- [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
 - [x] *[Project - Trybe Wallet](https://github.com/CristianoNunes/Project-Trybe-Wallet)*
 - [x] *[Project - Trivia Game](https://github.com/CristianoNunes/Project-Trivia-React-Redux)*
 - [x] *[Project - StarWars Datatable with Context API and Hooks](https://github.com/CristianoNunes/Project-StarWars-Datatable-Hooks)*
