@@ -16,9 +16,7 @@ About me:
 
 ### Hard Skills and Tools
 
-<p align="left"> 
-  <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/>
-  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=40&color=ffffff" alt="Git"/>
+<p align="left">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff" alt="Typescript"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/> 
@@ -28,7 +26,10 @@ About me:
   <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=ffffff" alt="VueJs"/>
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="Jest" width="40" height="40" />
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=ffffff" alt="Bootstrap"/>
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=currentColor" alt="MySQL"/> 
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=currentColor" alt="MySQL"/>
+  <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/>
+  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=40&color=ffffff" alt="Git"/>
+  <img src="https://icongr.am/devicon/bitbucket-original-wordmark.svg?size=40&color=ffffff" alt="Bitbucket"/>
   <img src="https://icongr.am/devicon/slack-original-wordmark.svg?size=40&color=currentColor" alt="Slack"/> 
   <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/> 
 </p>
