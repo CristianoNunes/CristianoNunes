@@ -17,23 +17,28 @@ About me:
 ### Hard Skills and Tools
 
 <p align="left"> 
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/> 
+  <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/>
+  <img src="https://icongr.am/devicon/git-plain-wordmark.svg?size=40&color=000000" alt="Git"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff" alt="Typescript"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/> 
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/> 
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" alt="React"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=000000" alt="Angular"/>
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="Jest" width="40" height="40" />
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="Bootstrap"/>
-  <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=currentColor" alt="Github"/> 
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=ffffff" alt="Bootstrap"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=currentColor" alt="MySQL"/> 
   <img src="https://icongr.am/devicon/slack-original-wordmark.svg?size=40&color=currentColor" alt="Slack"/> 
   <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/> 
-  <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/> 
 </p>
 
 ### 📫 How to reach me
 
 - 📧 Email: cristianonunes99@gmail.com
+
+## My projects developed at Rocketseat 👨🏽‍💻
+## React Native
+- [x] *[Challenger I App Todo](https://github.com/CristianoNunes/challenge-1-todo)*
 
 ## My projects developed at Trybe 👨🏽‍💻
 ## Introduction - Web Development :white_check_mark:
