@@ -40,7 +40,7 @@ About me:
 
 ## My projects developed at Rocketseat 👨🏽‍💻
 ## React Native
-- [x] *[Challenger I App Todo](https://github.com/CristianoNunes/challenge-1-todo)*
+- [x] *[Challenger I - App Todo](https://github.com/CristianoNunes/challenge-1-todo)*
 
 ## My projects developed at Trybe 👨🏽‍💻
 ## Introduction - Web Development :white_check_mark:
