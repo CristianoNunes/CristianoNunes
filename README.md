@@ -18,13 +18,14 @@ About me:
 
 <p align="left"> 
   <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/>
-  <img src="https://icongr.am/devicon/git-plain-wordmark.svg?size=40&color=000000" alt="Git"/>
+  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=40&color=ffffff" alt="Git"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff" alt="Typescript"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/> 
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/> 
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" alt="React"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=000000" alt="Angular"/>
+  <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=ffffff" alt="VueJs"/>
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="Jest" width="40" height="40" />
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=ffffff" alt="Bootstrap"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=currentColor" alt="MySQL"/> 
