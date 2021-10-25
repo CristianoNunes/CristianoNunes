@@ -19,8 +19,9 @@ About me:
 <p align="left">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff" alt="Typescript"/>
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/> 
-  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/> 
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/>
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" alt="React"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=000000" alt="Angular"/>
   <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=ffffff" alt="VueJs"/>
@@ -33,6 +34,7 @@ About me:
   <img src="https://icongr.am/devicon/slack-original-wordmark.svg?size=40&color=currentColor" alt="Slack"/> 
   <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/> 
 </p>
+
 
 ### 📫 How to reach me
 
