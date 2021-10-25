@@ -31,6 +31,7 @@ About me:
   <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/>
   <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=40&color=ffffff" alt="Git"/>
   <img src="https://icongr.am/devicon/bitbucket-original-wordmark.svg?size=40&color=ffffff" alt="Bitbucket"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://icongr.am/devicon/slack-original-wordmark.svg?size=40&color=currentColor" alt="Slack"/> 
   <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/> 
 </p>
