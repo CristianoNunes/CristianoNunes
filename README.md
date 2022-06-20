@@ -4,7 +4,7 @@
 Pleasure, I'm Cristiano Nunes, I've been passionate about technology since I was a child. I am a Postgraduate in Information Technology Management from FAVENI, graduated in Systems Analysis and Development from IFRN, and graduated in the Software Development course at Trybe. The Trybe program has over 1,500 hours of classes and covers front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
 About me:
-<img align="right" alt="GIF" src="dev2.gif" width="150px" />
+<img align="right" alt="GIF" src="dev2.gif" width="50px" />
 - 👨🏽‍💻 Tech lover.
 - :notebook: I like to learn new things.
 - ⚡ Proactive.
